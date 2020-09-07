@@ -30,3 +30,14 @@ This program uses few different packages/api's as needed in order to run the bot
 - Node.js - To run application
 - Cli-table2 - Assist with text-table creation
 
+----------------------------------------------------------------------------------------------
+#Installation Instructions
+
+1. Clone git repo
+2. Open folder containing the bot files
+3. Edit authTTR.json file and add your Discord Bot Auth Key
+4. Run command: npm install
+5. Run command: npm install package-lock.json
+6. Run command: npm i winston@2
+7. Run command: npm install request --save
+8. Run command: node TTRBot.js
