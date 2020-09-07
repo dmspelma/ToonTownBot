@@ -1,0 +1,3 @@
+{
+  "testing": "------------------- BELOW ARE GENERAL FUNCTIONS---------------\n\n~help ---------- \"Displays a list of commands.\"\n~invasion ------ \"Displays current ongoing invasions.\"\n~patchnotes ---- \"Displays this patch/'s updates and features\"\n~news --------- \"Displays recent news updates from the website.\"\n~about --------- \"Displays information about this bot.\""
+}

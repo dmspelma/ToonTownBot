@@ -1,0 +1,5 @@
+Ver 1.0.1 (07/29/19):
+  - Changed how case 'help' was implemented
+  - Imported files to a Raspberry Pi 3
+  - Set up Raspberry Pi so that every time the device boots it will connect the discord bot
+  - Updated bot description

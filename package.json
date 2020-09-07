@@ -1,0 +1,11 @@
+{
+  "name": "LegalEagleBot",
+  "version": "1.0.2",
+  "description": "**LegalEagleBot** is a Discord bot designed (by TibTheFox#5725) to assist with displaying information about the current status of ToonTown Rewritten; mainly Patchnotes and Cog Invasions. If the bot goes offline, it is because of an internet/power outage and you will need to wait until it is manually reset by TibTheFox. The author does not own the rights to ToonTown Rewritten, Disney or Discord. \n\nFeel free to check out or follow the author's Github at: *https://github.com/dmspelma \n\nQuestions or feedback is appreciated: legaleaglebot@gmail.com*",
+  "main": "TTRbot.js",
+  "author": "Drew Spelman",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "discord.io": "github:woor/discord.io#gateway_v6"
+  }
+}
