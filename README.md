@@ -16,6 +16,11 @@ Ver 1.0.2 (February 4th, 2020):
   - Edited Help file
   - Set up PM2 so the bot can run 24/7
   
+ Ver 1.0.3 (September 7th, 2020):
+  - Added colors to help/invasions commands
+  - Progress for upcoming News command
+  - Identified bug regarding news/patchnotes commands
+  
 ----------------------------------------------------------------------------------------------
 
 This program uses few different packages/api's as needed in order to run the bot:
