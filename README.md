@@ -1,5 +1,5 @@
 # ToonTownBot
-A simple discord bot designed to enhance gameplay by providing information at your fingertips
+A simple discord bot designed to enhance gameplay by providing information at your fingertips.
 
 Ver 1.0.0 (March 2018):
   - Initial version of bot
