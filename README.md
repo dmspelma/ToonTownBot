@@ -2,9 +2,12 @@
 A simple discord bot designed to enhance gameplay by providing information at your fingertips.
 
 # Add This Bot to Your Discord Channel
-Provided that you are the owner or an admin with permissions, the link below will allow you to add this bot to your Discord Channels
+Provided that you are the owner or an admin with permissions, the link below will allow you to 
+add this bot to your Discord Channels.
+
 https://discordapp.com/oauth2/authorize?client_id=430850734540587028&permissions=3072&scope=bot
 
+----------------------------------------------------------------------------------------------
 Ver 1.0.0 (March 2018):
   - Initial version of bot
   
